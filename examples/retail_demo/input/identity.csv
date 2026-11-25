@@ -1,0 +1,8 @@
+member,source,person,from,to,version,state
+M1,web,P1,2026-01-01,,1,confirmed
+M2,store,P1,2026-01-08,,1,confirmed
+M5,web,P2,2026-02-01,,1,confirmed
+M3,live,P9,2026-09-01,,1,disputed
+M4,store,P9,2026-10-01,,1,confirmed
+M6,web,P6,2026-11-01,,1,confirmed
+M7,web,P7,2026-11-20,,1,confirmed

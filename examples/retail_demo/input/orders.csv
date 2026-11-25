@@ -1,0 +1,10 @@
+order_id,member,channel,paid,state,at
+O1,M1,web,399,completed,2026-01-05
+O2,M2,store,180,completed,2026-03-10
+O3,M5,web,260,completed,2026-02-10
+O4,M5,web,99,cancelled,2026-02-15
+O5,M5,live,120,refunded,2026-03-01
+O6,M3,live,210,completed,2026-09-28
+O7,M4,store,150,completed,2026-10-05
+O8,M8,store,500,completed,2026-01-12
+O9,M6,web,299,completed,2026-11-05

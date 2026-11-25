@@ -1,0 +1,7 @@
+person,channel,state,at
+P1,web,active,2026-01-01
+P1,store,active,2026-01-08
+P2,web,active,2026-02-01
+P2,web,withdrawn,2026-11-22
+P6,web,active,2026-11-01
+P9,live,active,2026-09-01

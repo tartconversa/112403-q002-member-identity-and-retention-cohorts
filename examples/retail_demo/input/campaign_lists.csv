@@ -1,0 +1,3 @@
+list_id,name,channel,owner,status,exclude_recent_days
+L1,双12预热召回,web,alice,draft,
+L2,直播间会员复审,live,bob,draft,

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "governed-repurchase-analytics"
+version = "1.0.0"
+description = "Versioned identity, consent-aware campaign freezes, and cohort repurchase analytics"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+repurchase = "repurchase.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["repurchase*"]
+
+[tool.unittest]
+start = "tests"
